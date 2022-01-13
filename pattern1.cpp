@@ -1,10 +1,12 @@
+// Write a Program to print the right triangle star pattern.
+
 #include<iostream>
 using namespace std;
 
 int main()
 {
 int n;
-cout<<"enter the number of lines";
+cout<<"enter the number of lines to print * =";
 cin>>n;
 
 cout<<"right angled triangle pattern\n";
